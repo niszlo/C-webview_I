@@ -1,0 +1,151 @@
+2024-09-23 15:50:07 +0000  Initial pipeline context: <IDEDistributionProcessingPipelineContext: 0x3254f0360; archive(resolved)="<IDEArchive: 0x60000fce96e0>", distributionTask(resolved)="2", distributionDestination(resolved)="1", distributionMethod(resolved)="<IDEDistributionMethodDevelopmentSigned: 0x60000dbdd7c0>", team(resolved)="<IDEProvisioningDisambiguatableBasicTeam: 0x6000007bc880; teamID='SXB7N9TYG9', teamName='africultures', teamType='Company', username='postmaster@africultures.com', isFreeProvisioningTeam='0'>">
+	Chain (15, self inclusive):
+	<IDEDistributionProcessingPipelineContext: 0x3254f0360; archive = "<IDEArchive: 0x60000fce96e0>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0x60000dbdd7c0>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x6000007bc880; teamID='SXB7N9TYG9', teamName='africultures', teamType='Company', username='postmaster@africultures.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionProcessingPipelineContext: 0x3253a01e0; archive = "<IDEArchive: 0x60000fce96e0>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0x60000dbdd7c0>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x6000007bc880; teamID='SXB7N9TYG9', teamName='africultures', teamType='Company', username='postmaster@africultures.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x12c9489a0; archive = "<IDEArchive: 0x60000fce96e0>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0x60000dbdd7c0>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x6000007bc880; teamID='SXB7N9TYG9', teamName='africultures', teamType='Company', username='postmaster@africultures.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x10b351c90; archive = "<IDEArchive: 0x60000fce96e0>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0x60000dbdd7c0>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x6000007bc880; teamID='SXB7N9TYG9', teamName='africultures', teamType='Company', username='postmaster@africultures.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x12c9381d0; archive = "<IDEArchive: 0x60000fce96e0>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0x60000dbdd7c0>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x6000007bc880; teamID='SXB7N9TYG9', teamName='africultures', teamType='Company', username='postmaster@africultures.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x12c93a510; archive = "<IDEArchive: 0x60000fce96e0>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0x60000dbdd7c0>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x6000007bc880; teamID='SXB7N9TYG9', teamName='africultures', teamType='Company', username='postmaster@africultures.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x12cc20cb0; archive = "<IDEArchive: 0x60000fce96e0>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0x60000dbdd7c0>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x6000007bc880; teamID='SXB7N9TYG9', teamName='africultures', teamType='Company', username='postmaster@africultures.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x12cc20a80; archive = "<IDEArchive: 0x60000fce96e0>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0x60000dbdd7c0>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x6000007bc880; teamID='SXB7N9TYG9', teamName='africultures', teamType='Company', username='postmaster@africultures.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x16a866c50; archive = "<IDEArchive: 0x60000fce96e0>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0x60000dbdd7c0>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x6000007bc880; teamID='SXB7N9TYG9', teamName='africultures', teamType='Company', username='postmaster@africultures.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x324e71100; archive = "<IDEArchive: 0x60000fce96e0>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0x60000dbdd7c0>", team="(null)">
+	<IDEDistributionContext: 0x12c93c9b0; archive = "<IDEArchive: 0x60000fce96e0>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0x60000dbdd7c0>", team="(null)">
+	<IDEDistributionContext: 0x12c93f450; archive = "<IDEArchive: 0x60000fce96e0>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0x60000dbdd7c0>", team="(null)">
+	<IDEDistributionContext: 0x10b3498c0; archive = "<IDEArchive: 0x60000fce96e0>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0x60000dbdd7c0>", team="(null)">
+	<IDEDistributionContext: 0x12c93ab70; archive = "<IDEArchive: 0x60000fce96e0>", distributionMethod="(null)", team="(null)">
+	<IDEDistributionContext: 0x10b331420; archive = "<IDEArchive: 0x60000fce96e0>", distributionMethod="(null)", team="(null)">
+</IDEDistributionProcessingPipelineContext: 0x3254f0360>
+2024-09-23 15:50:07 +0000  Processing step: IDEDistributionCreateDestRootStep
+2024-09-23 15:50:07 +0000  Processing step: IDEDistributionCopyItemStep
+2024-09-23 15:50:07 +0000  Running /usr/bin/ditto '-V' '/Users/m1/Library/Developer/Xcode/Archives/2024-09-23/africultures 23-09-2024, 17.43.xcarchive/Products/Applications/C#webview.app' '/var/folders/vj/432lxz995359f7c1f338yyzc0000gn/T/XcodeDistPipeline.~~~rtOmnH/Root/Payload/C#webview.app'
+2024-09-23 15:50:07 +0000  >>> Copying /Users/m1/Library/Developer/Xcode/Archives/2024-09-23/africultures 23-09-2024, 17.43.xcarchive/Products/Applications/C#webview.app 
+2024-09-23 15:50:07 +0000  copying file ./_CodeSignature/CodeResources ... 
+2024-09-23 15:50:07 +0000  4559 bytes for ./_CodeSignature/CodeResources
+2024-09-23 15:50:07 +0000  copying file ./AppIcon60x60@2x.png ... 
+2024-09-23 15:50:07 +0000  4912 bytes for ./AppIcon60x60@2x.png
+copying file ./C#webview ... 
+2024-09-23 15:50:07 +0000  107472 bytes for ./C#webview
+2024-09-23 15:50:07 +0000  copying file ./Base.lproj/Main.storyboardc/UIViewController-BYZ-38-t0r.nib ... 
+2024-09-23 15:50:07 +0000  960 bytes for ./Base.lproj/Main.storyboardc/UIViewController-BYZ-38-t0r.nib
+2024-09-23 15:50:07 +0000  copying file ./Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib ... 
+2024-09-23 15:50:07 +0000  1225 bytes for ./Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib
+2024-09-23 15:50:07 +0000  copying file ./Base.lproj/Main.storyboardc/Info.plist ... 
+2024-09-23 15:50:07 +0000  258 bytes for ./Base.lproj/Main.storyboardc/Info.plist
+2024-09-23 15:50:07 +0000  copying file ./Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib ... 
+2024-09-23 15:50:07 +0000  1225 bytes for ./Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib
+2024-09-23 15:50:07 +0000  copying file ./Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib ... 
+2024-09-23 15:50:07 +0000  924 bytes for ./Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib
+2024-09-23 15:50:07 +0000  copying file ./Base.lproj/LaunchScreen.storyboardc/Info.plist ... 
+2024-09-23 15:50:07 +0000  258 bytes for ./Base.lproj/LaunchScreen.storyboardc/Info.plist
+2024-09-23 15:50:07 +0000  copying file ./Assets.car ... 
+2024-09-23 15:50:07 +0000  71832 bytes for ./Assets.car
+2024-09-23 15:50:07 +0000  copying file ./AppIcon76x76@2x~ipad.png ... 
+2024-09-23 15:50:07 +0000  6189 bytes for ./AppIcon76x76@2x~ipad.png
+2024-09-23 15:50:07 +0000  copying file ./embedded.mobileprovision ... 
+2024-09-23 15:50:07 +0000  12377 bytes for ./embedded.mobileprovision
+2024-09-23 15:50:07 +0000  copying file ./Info.plist ... 
+2024-09-23 15:50:07 +0000  1767 bytes for ./Info.plist
+2024-09-23 15:50:07 +0000  copying file ./PkgInfo ... 
+2024-09-23 15:50:07 +0000  8 bytes for ./PkgInfo
+2024-09-23 15:50:07 +0000  /usr/bin/ditto exited with 0
+2024-09-23 15:50:07 +0000  Processing step: IDEDistributionEmbedProfileStep
+2024-09-23 15:50:07 +0000  Processing step: IDEDistributionInfoPlistStep
+2024-09-23 15:50:07 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
+2024-09-23 15:50:07 +0000  Processing step: IDEDistributionAppThinningPlistStep
+2024-09-23 15:50:07 +0000  Skipping step: IDEDistributionAppThinningPlistStep because it said so
+2024-09-23 15:50:07 +0000  Processing step: IDEDistributionCompileBitcodeStep
+2024-09-23 15:50:07 +0000  Skipping step: IDEDistributionCompileBitcodeStep because it said so
+2024-09-23 15:50:07 +0000  Processing step: IDEDistributionCodeSlimmingStep
+2024-09-23 15:50:07 +0000  Processing step: IDEDistributionCopyBCSymbolMapsStep
+2024-09-23 15:50:07 +0000  Skipping step: IDEDistributionCopyBCSymbolMapsStep because it said so
+2024-09-23 15:50:07 +0000  Processing step: IDEDistributionSymbolsStep
+2024-09-23 15:50:07 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2024-09-23 15:50:07 +0000  Processing step: IDEDistributionAppThinningStep
+2024-09-23 15:50:07 +0000  Skipping step: IDEDistributionAppThinningStep because it said so
+2024-09-23 15:50:07 +0000  Processing step: IDEDistributionArchThinningStep
+2024-09-23 15:50:07 +0000  Item /Users/m1/Library/Developer/Xcode/Archives/2024-09-23/africultures 23-09-2024, 17.43.xcarchive/Products/Applications/C#webview.app doesn't have the entitlement com.apple.developer.web-browser-engine.host enabled, returning ["arm64e"]
+2024-09-23 15:50:07 +0000  Archs to thin for item /Users/m1/Library/Developer/Xcode/Archives/2024-09-23/africultures 23-09-2024, 17.43.xcarchive/Products/Applications/C#webview.app are ["arm64e"]
+2024-09-23 15:50:07 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/vj/432lxz995359f7c1f338yyzc0000gn/T/XcodeDistPipeline.~~~rtOmnH/Root/Payload/C#webview.app/C#webview' '-verify_arch' 'arm64e'
+2024-09-23 15:50:07 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2024-09-23 15:50:07 +0000  Skipping architecture thinning for item "C#webview" because arch "arm64e" wasn't found
+2024-09-23 15:50:07 +0000  Processing step: IDEDistributionODRStep
+2024-09-23 15:50:07 +0000  Processing step: IDEDistributionStripXattrsStep
+2024-09-23 15:50:07 +0000  Skipping stripping extended attributes because the codesign step will strip them.
+2024-09-23 15:50:07 +0000  Processing step: IDEDistributionCodesignStep
+2024-09-23 15:50:07 +0000  Entitlements for <IDEDistributionItem: 0x60000f3b0a80; bundleID='com.africultures.bundle', path='<DVTFilePath:0x60000ea61320:'/Users/m1/Library/Developer/Xcode/Archives/2024-09-23/africultures 23-09-2024, 17.43.xcarchive/Products/Applications/C#webview.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x600023980c80; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x6000023cb240; name='Apple Development: nicolas szlosek (R4L87AN5QA)', hash='D224139E40D1310D70B007591A37C184E8F5168E', serialNumber='F65D634B58FE73EAF26B51018AC70AA', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2024-09-23 13:26:02 +0000''>', entitlements='{
+    "application-identifier" = "SXB7N9TYG9.com.africultures.bundle";
+    "com.apple.developer.team-identifier" = SXB7N9TYG9;
+    "get-task-allow" = 1;
+}', teamID='SXB7N9TYG9', identifier='com.africultures.bundle', executablePath='<DVTFilePath:0x60000761af80:'/Users/m1/Library/Developer/Xcode/Archives/2024-09-23/africultures 23-09-2024, 17.43.xcarchive/Products/Applications/C#webview.app/C#webview'>', hardenedRuntime='0'>'>: {
+    "application-identifier" = "SXB7N9TYG9.com.africultures.bundle";
+    "com.apple.developer.team-identifier" = SXB7N9TYG9;
+    "get-task-allow" = 1;
+}
+2024-09-23 15:50:07 +0000  Associated App Clip Identifiers Filter: Skipping because "com.apple.developer.associated-appclip-app-identifiers" is not present
+2024-09-23 15:50:07 +0000  Entitlements for <IDEDistributionItem: 0x60000f3b0a80; bundleID='com.africultures.bundle', path='<DVTFilePath:0x60000ea61320:'/Users/m1/Library/Developer/Xcode/Archives/2024-09-23/africultures 23-09-2024, 17.43.xcarchive/Products/Applications/C#webview.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x600023980c80; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x6000023cb9c0; name='Apple Development: nicolas szlosek (R4L87AN5QA)', hash='D224139E40D1310D70B007591A37C184E8F5168E', serialNumber='F65D634B58FE73EAF26B51018AC70AA', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2024-09-23 13:26:02 +0000''>', entitlements='{
+    "application-identifier" = "SXB7N9TYG9.com.africultures.bundle";
+    "com.apple.developer.team-identifier" = SXB7N9TYG9;
+    "get-task-allow" = 1;
+}', teamID='SXB7N9TYG9', identifier='com.africultures.bundle', executablePath='<DVTFilePath:0x60000761af80:'/Users/m1/Library/Developer/Xcode/Archives/2024-09-23/africultures 23-09-2024, 17.43.xcarchive/Products/Applications/C#webview.app/C#webview'>', hardenedRuntime='0'>'> are: {
+    "application-identifier" = "SXB7N9TYG9.com.africultures.bundle";
+    "com.apple.developer.team-identifier" = SXB7N9TYG9;
+    "get-task-allow" = 1;
+}
+2024-09-23 15:50:07 +0000  Writing entitlements for <IDEDistributionItem: 0x60000f3b0a80; bundleID='com.africultures.bundle', path='<DVTFilePath:0x60000ea61320:'/Users/m1/Library/Developer/Xcode/Archives/2024-09-23/africultures 23-09-2024, 17.43.xcarchive/Products/Applications/C#webview.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x600023980c80; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x6000023ca280; name='Apple Development: nicolas szlosek (R4L87AN5QA)', hash='D224139E40D1310D70B007591A37C184E8F5168E', serialNumber='F65D634B58FE73EAF26B51018AC70AA', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2024-09-23 13:26:02 +0000''>', entitlements='{
+    "application-identifier" = "SXB7N9TYG9.com.africultures.bundle";
+    "com.apple.developer.team-identifier" = SXB7N9TYG9;
+    "get-task-allow" = 1;
+}', teamID='SXB7N9TYG9', identifier='com.africultures.bundle', executablePath='<DVTFilePath:0x60000761af80:'/Users/m1/Library/Developer/Xcode/Archives/2024-09-23/africultures 23-09-2024, 17.43.xcarchive/Products/Applications/C#webview.app/C#webview'>', hardenedRuntime='0'>'> to: /var/folders/vj/432lxz995359f7c1f338yyzc0000gn/T/XcodeDistPipeline.~~~rtOmnH/entitlements~~~aznA6f
+2024-09-23 15:50:07 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'D224139E40D1310D70B007591A37C184E8F5168E' '--entitlements' '/var/folders/vj/432lxz995359f7c1f338yyzc0000gn/T/XcodeDistPipeline.~~~rtOmnH/entitlements~~~aznA6f' '--generate-entitlement-der' '--strip-disallowed-xattrs' '--preserve-metadata=identifier,flags,runtime' '/var/folders/vj/432lxz995359f7c1f338yyzc0000gn/T/XcodeDistPipeline.~~~rtOmnH/Root/Payload/C#webview.app'
+2024-09-23 15:50:07 +0000  /var/folders/vj/432lxz995359f7c1f338yyzc0000gn/T/XcodeDistPipeline.~~~rtOmnH/Root/Payload/C#webview.app: replacing existing signature
+2024-09-23 15:50:07 +0000  /var/folders/vj/432lxz995359f7c1f338yyzc0000gn/T/XcodeDistPipeline.~~~rtOmnH/Root/Payload/C#webview.app: signed app bundle with Mach-O thin (arm64) [com.africultures.bundle]
+2024-09-23 15:50:07 +0000  /usr/bin/codesign exited with 0
+2024-09-23 15:50:07 +0000  Processing step: IDEDistributionZipODRItemStep
+2024-09-23 15:50:07 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2024-09-23 15:50:07 +0000  Processing step: IDEDistributionCreateIPAStep
+2024-09-23 15:50:07 +0000  Running /usr/bin/ditto '-V' '-c' '-k' '--norsrc' '/var/folders/vj/432lxz995359f7c1f338yyzc0000gn/T/XcodeDistPipeline.~~~rtOmnH/Root' '/var/folders/vj/432lxz995359f7c1f338yyzc0000gn/T/XcodeDistPipeline.~~~rtOmnH/Packages/C#webview.ipa'
+2024-09-23 15:50:07 +0000  >>> Copying /var/folders/vj/432lxz995359f7c1f338yyzc0000gn/T/XcodeDistPipeline.~~~rtOmnH/Root 
+2024-09-23 15:50:07 +0000  copying file ./Payload/C#webview.app/_CodeSignature/CodeResources ... 
+2024-09-23 15:50:07 +0000  4559 bytes for ./Payload/C#webview.app/_CodeSignature/CodeResources
+2024-09-23 15:50:07 +0000  copying file ./Payload/C#webview.app/AppIcon60x60@2x.png ... 
+2024-09-23 15:50:07 +0000  4912 bytes for ./Payload/C#webview.app/AppIcon60x60@2x.png
+2024-09-23 15:50:07 +0000  copying file ./Payload/C#webview.app/C#webview ... 
+2024-09-23 15:50:07 +0000  107472 bytes for ./Payload/C#webview.app/C#webview
+2024-09-23 15:50:07 +0000  copying file ./Payload/C#webview.app/Base.lproj/Main.storyboardc/UIViewController-BYZ-38-t0r.nib ... 
+2024-09-23 15:50:07 +0000  960 bytes for ./Payload/C#webview.app/Base.lproj/Main.storyboardc/UIViewController-BYZ-38-t0r.nib
+copying file ./Payload/C#webview.app/Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib ... 
+2024-09-23 15:50:07 +0000  1225 bytes for ./Payload/C#webview.app/Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib
+2024-09-23 15:50:07 +0000  copying file ./Payload/C#webview.app/Base.lproj/Main.storyboardc/Info.plist ... 
+2024-09-23 15:50:07 +0000  258 bytes for ./Payload/C#webview.app/Base.lproj/Main.storyboardc/Info.plist
+2024-09-23 15:50:07 +0000  copying file ./Payload/C#webview.app/Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib ... 
+2024-09-23 15:50:07 +0000  1225 bytes for ./Payload/C#webview.app/Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib
+2024-09-23 15:50:07 +0000  copying file ./Payload/C#webview.app/Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib ... 
+2024-09-23 15:50:07 +0000  924 bytes for ./Payload/C#webview.app/Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib
+2024-09-23 15:50:07 +0000  copying file ./Payload/C#webview.app/Base.lproj/LaunchScreen.storyboardc/Info.plist ... 
+2024-09-23 15:50:07 +0000  258 bytes for ./Payload/C#webview.app/Base.lproj/LaunchScreen.storyboardc/Info.plist
+copying file ./Payload/C#webview.app/Assets.car ... 
+2024-09-23 15:50:07 +0000  71832 bytes for ./Payload/C#webview.app/Assets.car
+2024-09-23 15:50:07 +0000  copying file ./Payload/C#webview.app/AppIcon76x76@2x~ipad.png ... 
+2024-09-23 15:50:07 +0000  6189 bytes for ./Payload/C#webview.app/AppIcon76x76@2x~ipad.png
+2024-09-23 15:50:07 +0000  copying file ./Payload/C#webview.app/embedded.mobileprovision ... 
+2024-09-23 15:50:07 +0000  12377 bytes for ./Payload/C#webview.app/embedded.mobileprovision
+2024-09-23 15:50:07 +0000  copying file ./Payload/C#webview.app/Info.plist ... 
+2024-09-23 15:50:07 +0000  1767 bytes for ./Payload/C#webview.app/Info.plist
+2024-09-23 15:50:07 +0000  copying file ./Payload/C#webview.app/PkgInfo ... 
+2024-09-23 15:50:07 +0000  8 bytes for ./Payload/C#webview.app/PkgInfo
+2024-09-23 15:50:07 +0000  /usr/bin/ditto exited with 0
+2024-09-23 15:50:07 +0000  Processing step: IDEDistributionAppStoreInformationStep
+2024-09-23 15:50:07 +0000  Skipping step: IDEDistributionAppStoreInformationStep because it said so
+2024-09-23 15:50:07 +0000  Processing step: IDEDistributionGenerateProcessedDistributionItems
+2024-09-23 15:50:07 +0000  IDEDistributionItem init <DVTFilePath:0x60000aafdd40:'/var/folders/vj/432lxz995359f7c1f338yyzc0000gn/T/XcodeDistPipeline.~~~rtOmnH/Root/Payload/C#webview.app'>
+2024-09-23 15:50:07 +0000  Processing step: IDEDistributionCreateManifestStep

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>C#webview.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>buildNumber</key>
+			<string>1</string>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>D224139E40D1310D70B007591A37C184E8F5168E</string>
+				<key>dateExpires</key>
+				<string>23/09/2025</string>
+				<key>type</key>
+				<string>Apple Development</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>SXB7N9TYG9.com.africultures.bundle</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>SXB7N9TYG9</string>
+				<key>get-task-allow</key>
+				<true/>
+			</dict>
+			<key>name</key>
+			<string>C#webview.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>f479dfc7-7a6b-4a92-bfc4-cc2e91e6bf15</string>
+				<key>dateExpires</key>
+				<string>23/09/2025</string>
+				<key>name</key>
+				<string>iOS Team Provisioning Profile: com.africultures.bundle</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>SXB7N9TYG9</string>
+				<key>name</key>
+				<string>africultures</string>
+			</dict>
+			<key>versionNumber</key>
+			<string>1.1</string>
+		</dict>
+	</array>
+</dict>
+</plist>
